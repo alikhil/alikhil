@@ -19,6 +19,6 @@ I'm a passionate software engineer with a love for creating innovative solutions
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/akhilazhev)
-- [Personal Website]([https://alik.page](https://alik.page/?utm_source=github&utm_medium=readme))
+- [Personal Website](https://alik.page/?utm_source=github&utm_medium=readme)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate or just say hi! 😊
