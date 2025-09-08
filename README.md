@@ -2,14 +2,14 @@
 
 Welcome to my GitHub profile! 
 
-I'm a passionate software engineer with a love for creating innovative solutions and learning new technologies.
+I'm a passionate software engineer with a love for problem solving and learning new technologies.
 
 ## 🚀 About Me
-- 🔭 I’m currently working at Criteo as SRE
+- 🔭 I’m currently working as SRE
 - 🇪🇸 I'm currently living in Barcelona
-- 🌱 I’m currently tinkering RouterOS and Mikrotik
+- 🌱 I’m currently tinkering with Meshtastic and uConsole
 - 📝 I do write posts on random topics at [alikhil.dev](https://alikhil.dev/?utm_source=github&utm_medium=readme)
-- 💬 Ask me about Kubernetes, CI/CD, GCP/AWS/Yandex.Cloud
+- 💬 Ask me about Kubernetes, CI/CD, ArgoCD, GCP/AWS/Yandex.Cloud
 - 📫 How to reach me: [hello@alik.page](mailto:hello@alik.page)
 - 😄 Pronouns: him/his
 
