@@ -19,6 +19,6 @@ I'm a passionate software engineer with a love for problem solving and learning 
 <!-- Optional: Add more sections as needed -->
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/akhilazhev)
+- [LinkedIn](https://www.linkedin.com/in/alikhil)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate or just say hi! 😊
