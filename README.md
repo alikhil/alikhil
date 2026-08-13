@@ -13,12 +13,10 @@ I'm a passionate software engineer with a love for problem solving and learning 
 - 📫 How to reach me: [hello@alik.page](mailto:hello@alik.page)
 - 😄 Pronouns: he/him
 
-## 📈 GitHub Stats
-![alikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikhil&show_icons=true&theme=shadow_blue)
-
 <!-- Optional: Add more sections as needed -->
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alikhil)
+- [Twitter/X](https://x.com/akhilazhev)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate or just say hi! 😊
